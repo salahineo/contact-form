@@ -1,0 +1,131 @@
+/* Start Global */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f1f1f1;
+}
+
+/* End Global */
+
+/* Start Form */
+
+.form-container {
+  max-width: 450px;
+  padding: 30px 0;
+  margin: auto;
+}
+
+h1 {
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  margin-bottom: 15px;
+}
+
+.contact-form input::-webkit-input-placeholder,
+.contact-form textarea::-webkit-input-placeholder {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.contact-form input::-moz-placeholder,
+.contact-form textarea::-moz-placeholder {
+  -moz-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.contact-form input:-ms-input-placeholder,
+.contact-form textarea:-ms-input-placeholder {
+  -ms-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+  transition: 0.3s;
+}
+
+.contact-form input:focus::-webkit-input-placeholder,
+.contact-form textarea:focus::-webkit-input-placeholder {
+  color: #fff;
+}
+
+.contact-form input:focus::-moz-placeholder,
+.contact-form textarea:focus::-moz-placeholder {
+  color: #fff;
+}
+
+.contact-form input:focus:-ms-input-placeholder,
+.contact-form textarea:focus:-ms-input-placeholder {
+  color: #fff;
+}
+
+.contact-form input:focus::placeholder,
+.contact-form textarea:focus::placeholder {
+  color: #fff;
+}
+
+.contact-form input {
+  padding-left: 40px;
+  padding-right: 20px;
+}
+
+.contact-form textarea {
+  padding-right: 20px;
+}
+
+.contact-form .required {
+  color: #f00;
+  float: right;
+  height: 0;
+  position: relative;
+  top: 10px;
+  right: 10px;
+}
+
+.contact-form textarea {
+  height: 130px !important;
+  resize: none;
+}
+
+.contact-form input:not([type='submit']) + i {
+  height: 0;
+  float: left;
+  position: relative;
+  top: -42px;
+  left: 10px;
+  font-size: 17px;
+}
+
+.contact-form input[type='submit'] + i {
+  position: relative;
+  left: 12px;
+  top: -44px;
+  color: #fff;
+  display: block;
+  font-size: 17px;
+  height: 0;
+}
+
+h1,
+.contact-form input:not([type='submit']) + i {
+  color: #555;
+}
+
+.error .alert {
+  margin-bottom: 15px;
+}
+
+[class^='error-'] {
+  display: none;
+}
+
+/* End Form */
