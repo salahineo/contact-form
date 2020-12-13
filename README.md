@@ -1,5 +1,9 @@
 <h1 align="center">Contact Form</h1>
 
+<p align="center">
+<img src="Mockup.jpg" alt="Responsive Mockup">
+</p>
+
 ## Table of Contents
 
 - [Goal](#goal)
@@ -12,14 +16,14 @@
 
 ### Goal
 
-This is a simple contact form using PHP-Mailer library with gmail SMTP server. I coded this project to practice on my knowledge of HTML, CSS, jQuery, and PHP in real project.
+This is a simple contact form using PHP-Mailer library with gmail SMTP server. I coded this project to practice my knowledge of HTML, CSS, jQuery, and PHP in a real project.
 
 ### Benefits
 
 Here are some ideas to benefit from this project:
 
-- Take this project as a task and try to make it, and if you could not do a specific section, see how i make it in the source code (use comments to reach this section).
-- Extract code of specific section and use it in your project.
+- Take this project as a task and try to make it, and if you could not do a specific section, see how I make it in the source code (use comments to reach this section).
+- Extract a code of a specific section and use it in your project.
 - Review source code to see how other people code their projects.
 - Edit on this project after studying its code well, to know how to work in pair-programming with other people
 - Upgrade this project, and add your own sections or pages
