@@ -174,6 +174,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <a href="https://www.linkedin.com/in/salahineo/" target="_blank">
               <i class="fab fa-linkedin-in"></i>
             </a>
+            <a href="https://www.behance.net/salahineo" target="_blank">
+              <i class="fab fa-behance"></i>
+            </a>
             <a href="https://salahineo.github.io/salahineo/" target="_blank">
               <i class="fas fa-globe-africa"></i>
             </a>
