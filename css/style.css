@@ -129,3 +129,36 @@ h1,
 }
 
 /* End Form */
+
+/* Start Footer */
+
+footer .copyright {
+  font-size: 15px;
+  color: #555;
+}
+
+footer .copyright p > span {
+  color: #222;
+  font-weight: 600;
+}
+
+footer .links a {
+  text-decoration: none;
+  color: #555;
+  margin-right: 10px;
+}
+
+footer .links a:hover {
+  text-decoration: none;
+}
+
+footer .links a,
+footer .links a i{
+  transition: 0.3s;
+}
+
+footer .links a i:hover {
+  color: #0075ff;
+}
+
+/* End Footer */
