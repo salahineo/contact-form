@@ -46,7 +46,7 @@ Here are some configurations to do in the `index.php` file:
 - Set the `$mail->Password` (line: 39) to your google password for previous email
 - Set the `$mail->addAddress` (line: 46) to your google email, and your name. This email will be used to receive messages
 
-> In the `$mail->Username`, you should add a google email which allow the **Less Secure App Access**, otherwise the message will not be sent with this email. You can manage that from google email security settings
+> In the `$mail->Username`, you should add a google email which allow the **Less Secure App Access**, otherwise the message will not be sent with this email. You can manage this from google email security settings
 
 ### Technologies
 
