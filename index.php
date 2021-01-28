@@ -164,7 +164,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <div class="row">
           <!-- Copyright -->
           <div class="copyright text-center text-lg-left col-lg-6">
-            <p>© 2020 | <span>Mohamed Salah</span></p>
+            <p>© <span id="footer-copyright-year"></span> | <span class="name">Mohamed Salah</span></p>
           </div>
           <!-- Links -->
           <div class="links text-center text-lg-right col-lg-6">

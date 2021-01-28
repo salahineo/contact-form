@@ -16,7 +16,7 @@
 
 ### Goal
 
-This is a simple contact form using PHP-Mailer library with gmail SMTP server. I coded this project to practice my knowledge of HTML, CSS, jQuery, and PHP in a real project.
+This is contact form using PHP-Mailer library with gmail SMTP server. I coded this project to practice on my knowledge of HTML, CSS, jQuery, and PHP in a real project.
 
 ### Benefits
 
@@ -33,10 +33,10 @@ Here are some ideas to benefit from this project:
 Here are the guidelines to run this project on your localhost:
 
 1. Download, then install [XAMPP](https://www.apachefriends.org/download.html) web server
-2. Download this project, then rename its folder to `contactForm`
-3. Copy the `contactForm` folder to the `htdocs` folder which exists in XAMPP installation path
-4. Start XAMPP control panel from your Desktop, then start `apache` web server
-5. Open your browser, and type `http://localhost/contactForm`
+2. Download this project, then rename its directory to `contact-form`
+3. Copy the `contact-form` directory to the `htdocs` directory which exists in XAMPP installation path
+4. Start XAMPP control panel from your Desktop, then start `Apache` web server, and `MySQL` server
+5. Open your browser, and type `http://localhost/contact-form`, to open the application
 
 ### Configurations
 
@@ -55,7 +55,7 @@ Here are some configurations to do in the `index.php` file:
 - jQuery
 - PHP
 
-> This Application is fully responsive
+> This application is fully responsive
 
 ### Contact
 
@@ -69,7 +69,7 @@ Here are some configurations to do in the `index.php` file:
 ### Copyright and license
 
 - **[GPLv3](https://www.gnu.org/licenses/gpl-3.0)**
-- **© 2020 | Mohamed Salah**
+- **© 2021 | Mohamed Salah**
 
 ---
 

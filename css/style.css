@@ -137,7 +137,7 @@ footer .copyright {
   color: #555;
 }
 
-footer .copyright p > span {
+footer .copyright p > span.name {
   color: #222;
   font-weight: 600;
 }
