@@ -104,6 +104,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   <!-- CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css"/>
   <link rel="stylesheet" href="css/style.css"/>
+  
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico">
 </head>
 
 <body>
