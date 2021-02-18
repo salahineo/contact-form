@@ -35,7 +35,7 @@ Here are the guidelines to run this project on your localhost:
 1. Download, then install [XAMPP](https://www.apachefriends.org/download.html) web server
 2. Download this project, then rename its directory to `contact-form`
 3. Copy the `contact-form` directory to the `htdocs` directory which exists in XAMPP installation path
-4. Start XAMPP control panel from your Desktop, then start `Apache` web server, and `MySQL` server
+4. Start XAMPP control panel from your Desktop, then start `Apache` web server
 5. Open your browser, and type `http://localhost/contact-form`, to open the application
 
 ### Configurations
@@ -52,6 +52,8 @@ Here are some configurations to do in the `index.php` file:
 
 - HTML
 - CSS
+- Bootstrap
+- JavaScript
 - jQuery
 - PHP
 
